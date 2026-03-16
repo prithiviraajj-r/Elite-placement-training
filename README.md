@@ -1,10 +1,13 @@
 # Elite Placement Training
 
-This repository contains Elite Placement Training materials.
+This repository contains materials used for Elite Placement Training.
 
 ## Contents
-- Training PDF files
-- Practice materials
+- Placement training PDF files
+- Study resources
+
+## Usage
+You can view or download the files to prepare for placement training.
 
 ## Author
 Prithiviraajj R
